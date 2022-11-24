@@ -13,3 +13,13 @@ This is apple
 Тута будет картинка апельсина
 
 ![Orange](orange.jpg)
+
+## Lists
+
+* List
+* List
+* List
+
+1. List
+2. List
+3. List

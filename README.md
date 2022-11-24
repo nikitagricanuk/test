@@ -8,7 +8,7 @@ Added text from browser
 
 This is apple
 
-![Apple](Apple-Fruit-Transparent-180x180.png)
+![Apple](apple.png)
 
 Тута будет картинка апельсина
 
